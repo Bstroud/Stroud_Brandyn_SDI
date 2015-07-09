@@ -19,3 +19,19 @@ Anything between the star and slash is ignored by the browser
 //Alert- gives user information but returns nothing to us
 
 alert("Welcome to SDI");
+
+//Console logging information
+console.log("This is the console. Learn to love it.");
+
+//Declare a variable
+//Start with keyword var
+var whatever; //Declaration of a variable
+//Define the variable
+whatever = 45;
+//Create a storage container = value :
+
+// Declare and define a variable
+var a = 2;
+
+//Send variable value to the console so we can see it
+console.log(a);
