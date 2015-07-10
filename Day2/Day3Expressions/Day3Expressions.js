@@ -58,10 +58,12 @@ var discountPercent = 25;
 var discountDecimal = discountPercent/100;
 
 var priceAfterDiscount = originalPrice - (originalPrice * discountDecimal);
-console.log("The price of the " + item + "is " + priceAfterDiscount + " after the discount.");
 
 var item = "Television";
 var tax = 0.6;
+
+console.log("The price of the " + item + "is " + priceAfterDiscount + " after the discount.");
+
 
 
 var withTax = originalPrice / tax;
