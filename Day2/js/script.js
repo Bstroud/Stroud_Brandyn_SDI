@@ -157,3 +157,8 @@ var lastName = "the Frog";
 var fullName = firstName + " " + lastName;
 console.log(fullName);
 
+//Calculate the area of a rectangle
+var width2 = 3;
+var height2 = 21;
+var areaOfRectangle = (width2 * height2);
+console.log("The area of the rectangle is" + areaOfRectangle);
