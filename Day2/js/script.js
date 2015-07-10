@@ -49,7 +49,7 @@ var b;
 b=a+3;
 
 console.log(a);
-console.log(b);
+console.log("The value of b is " + b);
 
 //SImple math
 //Find our age
@@ -136,3 +136,24 @@ console.log(phrase);
 var yes = true;
 var nope = false;
 // A string of "false" is not equal to a boolean of false
+
+
+// Simple Math problem
+//Find the perimeter of a rectangle
+
+var side1 = 7;
+var length1 = 6;
+var perimeter = (side1) *2 + (length1) *2;
+console.log(perimeter);
+
+//Are the parenthesis needed?
+
+
+
+//Cancatenation - combing texts
+
+var firstName = "Kermit";
+var lastName = "the Frog";
+var fullName = firstName + " " + lastName;
+console.log(fullName);
+
