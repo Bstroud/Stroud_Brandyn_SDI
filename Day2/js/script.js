@@ -103,3 +103,36 @@ tester*=6;
 console.log(tester);
 
 
+//Orders Of Operation
+//PEMDAS
+
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 70;
+
+//adds up all of them and then divides by how many there are
+var average = (quiz1 + quiz2 + quiz3) /3;
+
+console.log(average);
+
+//Strings - texts for coding
+
+var kermit = "Light Green";
+var frogName = "kermit";
+
+console.log(frogName);
+
+
+//double or single quotes
+//Escape characters (backslash)
+var phrase = "I Don\'t Know";
+console.log(phrase);
+
+
+
+
+//Booleans - true or false
+//Light Switches of programming
+var yes = true;
+var nope = false;
+// A string of "false" is not equal to a boolean of false
