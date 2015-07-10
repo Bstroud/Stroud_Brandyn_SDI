@@ -22,6 +22,12 @@ console.log(slicesPerPerson);
 
 
 //Problem 2
+/*
+Sparky gets 2 whole slices of pizza
+ */
+var sparky = 2;
+
+console.log("Sparky gets" + " " + sparky + " " + "slices of pizza");
 
 
 
