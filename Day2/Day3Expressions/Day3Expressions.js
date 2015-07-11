@@ -11,9 +11,7 @@
 //Problem 1
 
 /*
-Number of slices of pizza = 9
-Number of people ar party = 25
-Number of pizzas ordered = 6
+Pizza Party
  */
 var pizzas = 6;
 var slicesPerPizza = 9;
@@ -26,7 +24,7 @@ console.log(slicesPerPerson);
 //Problem 2
 
 /*
-Sparky gets 2 whole slices of pizza
+Sparky
  */
 var sparky = slicesOfPizza % partyGoers;
 
@@ -62,13 +60,13 @@ var priceAfterDiscount = originalPrice - (originalPrice * discountDecimal);
 var item = "Television";
 var tax = 0.6;
 
-console.log("The price of the " + item + "is " + priceAfterDiscount + " after the discount.");
+console.log("The price of the " + item + " is " + priceAfterDiscount + " after the discount.");
 
 
-
-var withTax = originalPrice / tax;
+var calcTax = originalPrice * tax;
+var withTax = priceAfterDiscount +calcTax;
 var withoutTax = originalPrice * tax;
+console.log("The price of the " + item + " is " +  withTax + " after tax.");
 
 
-
-console.log("Your " + item + " was originally " + originalPrice + ", but after a " + discountPercent + "% discount, it is now " + "$" + withoutTax + " without tax and " + "$" + withTax + " with tax." );
+console.log("Your " + item + " was originally " + originalPrice + ", but after a " + discountPercent + "% discount, it is now " + "$" + priceAfterDiscount + " without tax and " + "$" + withTax + " with tax." );
