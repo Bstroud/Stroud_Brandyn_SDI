@@ -23,10 +23,10 @@ var hours = [ohToWv, wVaToVa, vaToNc, ncToSc, ScToGa, gaToFl];
 var totalHours = hours[0] + hours[1] + hours[2] + hours[3] +hours[4];
 var gasStopsIncluded = (totalHours += totalGasStops);
 
-
+alert("HEY! So this is how long I had to endure being on the road to Orlando.")
 console.log("It takes this many hours to travel by car through all these states from Ohio to Florida: " +totalHours);
 console.log("Then we have to include gas and restroom stops, so an additional " + gasStopsIncluded + " hours.");
-
+prompt("As you can see, that's a lot of hours out of my life. Click Ok or Cancel to see why I wanted to fly.");
 //Flying
 
 var ohioToFl = 2.0;
