@@ -47,6 +47,4 @@ if(kidHeight>=48){
     console.log("sorry too short.")
 }
 
-
 console.log("This text is after the code block.");
-

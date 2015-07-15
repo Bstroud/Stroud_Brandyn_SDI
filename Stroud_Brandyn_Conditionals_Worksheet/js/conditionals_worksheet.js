@@ -13,10 +13,14 @@ var regPrice = 12.00;
 var discountPrice = 55;
 var discountPrice2 = 10;
 alert("Time:\n2:00");
-prompt("Please enter your age:");
-if(discountPrice>=55 || discountPrice2<=10){
-    console.log("Congrats you qualify for our discount offer!!!");
 
-} else {
-    console.log("You don't qualify for our discount offer please pay " +regPrice);
+//Determine if the customer is able to qualify for the discount
+var age = parseInt(prompt("Please enter your age:"));
+
+if(discountPrice<=age || discountPrice2>=age){
+    console.log("Congrats you qualify for our discount offer!!!")
+} else{
+    console.log("Please pay $" +regPrice+ ".00")
 }
+
+
