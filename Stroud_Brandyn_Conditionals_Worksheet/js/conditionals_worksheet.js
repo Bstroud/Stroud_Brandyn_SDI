@@ -23,4 +23,14 @@ if(discountPrice<=age || discountPrice2>=age){
     console.log("Please pay $" +regPrice+ ".00")
 }
 
+//3 p.m to 5 p.m Discount
 
+var time = 3;
+var time2 = 5;
+
+var arrival = parseInt(prompt("Please enter your arrival time:"));
+if(time>=arrival && time2<=arrival){
+    console.log("Enjoy the discount")
+} else {
+    console.log("Please pay $" +regPrice+ ".00")
+}
