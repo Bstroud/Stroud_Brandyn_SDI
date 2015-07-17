@@ -48,4 +48,4 @@ if(getReady=shower && eat<=breakfast){
 }
 //Simpler way to say this
 
-(ready < 60)? console.log("Good job you are on time")
+(ready >= 60)? console.log("Good job you are on time") : console.log("YOU ARE LATE!!!");
