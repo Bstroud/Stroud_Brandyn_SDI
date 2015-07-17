@@ -22,18 +22,30 @@ var latestTime = shower + breakfast;
 console.log("You can not take longer than " + latestTime + " minutes.");
 //If you do everything right
 
-console.log("Try to make it before 8:30am!");
+console.log("Try to make it before 8:45am!");
 alert("No matter what it will take you 45 minutes in traffic regardless of how fast you drive");
 
 var getReady = prompt("How long does it take for you to wash up and get dressed?\nEnter how many minutes it takes you.");
 var eat = prompt("How long does it take you to eat breakfast\nEnter how many minutes it takes you.");
 
-if(shower<=getReady && breakfast>=eat){
+if(getReady+eat<=60){
+    console.log("Good time management.")
+}
 
-    console.log("Yay! You made it on time!");
-} else if(shower+breakfast>=latestTime) {
-        console.log("You're Still On Time.");
+//Combined time of getReady and eat
+var ready = (getReady+eat);
+
+
+if(getReady=shower && eat<=breakfast){
+    console.log("You Made It!!!");
+
+}else if(ready<=60) {
+    console.log("You Made It!!!");
+
     //If you exceed your time
-}else{
+}else {
     console.log("You're Late!!!");
 }
+//Simpler way to say this
+
+(ready < 60)? console.log("Good job you are on time")
