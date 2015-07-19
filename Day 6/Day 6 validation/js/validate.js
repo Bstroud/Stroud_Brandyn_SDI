@@ -29,11 +29,15 @@ while(isNaN(userName) || userName===""){
 }
 console.log("After the while loop");
 
-
 //ask the user for either red or black
 var color = prompt("Please choose red or black");
 //validate
 while(color.toLowerCase()!= "red" && color.toLowerCase()!="black"){
     //re-prompt the user
     color=prompt("Please only enter red or black\nPlease enter your color.");
+    counter++;
+    if(counter>10){
+        console.log("You failed to many times");
+        break
+    }
 }

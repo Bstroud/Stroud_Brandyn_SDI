@@ -10,7 +10,7 @@
 var counter = 0;
 
 //while loops with condition
-//run as long as the condtiotion is true
+//run as long as the condition is true
 
 while(counter<200){
     console.log("The current value is " +counter);
