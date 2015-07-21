@@ -4,7 +4,6 @@
     <list default="true" id="464d2b27-26c5-43d7-86d4-65545f58ad4e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/Day 6 for loops/for_loop.js" afterPath="$PROJECT_DIR$/Day 6/Day 6 for loops/for_loop.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stroud_Brandyn_Loops_Worksheet/js/loops_worksheet.js" afterPath="$PROJECT_DIR$/Stroud_Brandyn_Loops_Worksheet/js/loops_worksheet.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7 Zombies/js/zombies.js" afterPath="$PROJECT_DIR$/Day 7 Zombies/js/zombies.js" />
     </list>
     <ignored path="Stroud_Brandyn_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,11 +48,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zombies.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zombies.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 7 Zombies/js/zombies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9182561">
+            <state vertical-scroll-proportion="0.0">
               <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loops_arrays.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 7 Loops and Arrays/js/loops_arrays.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.84513277">
+              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day 7 Loops and Arrays.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 7 Loops and Arrays/Day 7 Loops and Arrays.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -140,6 +159,8 @@
         <option value="$PROJECT_DIR$/Day 7/js/day_7_beer.js" />
         <option value="$PROJECT_DIR$/Day 7 Zombies/day 7 Zombies.html" />
         <option value="$PROJECT_DIR$/Day 7 Zombies/js/zombies.js" />
+        <option value="$PROJECT_DIR$/Day 7 Loops and Arrays/Day 7 Loops and Arrays.html" />
+        <option value="$PROJECT_DIR$/Day 7 Loops and Arrays/js/loops_arrays.js" />
       </list>
     </option>
   </component>
@@ -222,6 +243,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Day 7 Zombies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 7 Loops and Arrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 7 Loops and Arrays" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -382,20 +435,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 5/js/steaks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="2" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/nest_if_statments/js/nesting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Stroud_Brandyn_Conditionals_Worksheet/js/conditionals_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -407,6 +446,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -582,6 +622,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +733,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -751,8 +792,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 7 Zombies/js/zombies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9182561">
+        <state vertical-scroll-proportion="0.0">
           <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7 Loops and Arrays/Day 7 Loops and Arrays.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7 Loops and Arrays/js/loops_arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84513277">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
           <folding />
         </state>
       </provider>
