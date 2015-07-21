@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="464d2b27-26c5-43d7-86d4-65545f58ad4e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/js/day_7_beer.js" afterPath="$PROJECT_DIR$/Day 7/js/day_7_beer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/Day 6 for loops/for_loop.js" afterPath="$PROJECT_DIR$/Day 6/Day 6 for loops/for_loop.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stroud_Brandyn_Loops_Worksheet/js/loops_worksheet.js" afterPath="$PROJECT_DIR$/Stroud_Brandyn_Loops_Worksheet/js/loops_worksheet.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Stroud_Brandyn_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +40,8 @@
       <file leaf-file-name="day_7_beer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 7/js/day_7_beer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47002724">
-              <caret line="23" column="114" selection-start-line="23" selection-start-column="114" selection-end-line="23" selection-end-column="114" />
+            <state vertical-scroll-proportion="0.43178973">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -129,10 +129,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="290" />
-    <option name="y" value="23" />
-    <option name="width" value="1146" />
-    <option name="height" value="857" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -220,7 +218,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="jsx.switch.disabled" value="true" />
   </component>
   <component name="RecentsManager">
@@ -288,14 +286,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="290" y="23" width="1146" height="857" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2303665" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -693,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 7/js/day_7_beer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47002724">
-          <caret line="23" column="114" selection-start-line="23" selection-start-column="114" selection-end-line="23" selection-end-column="114" />
+        <state vertical-scroll-proportion="0.43178973">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
