@@ -14,7 +14,7 @@ var saiyan2 = "Vegeta- ";
 
 //Goku before the scouter
 
-var sonGoku = 0;
+var sonGoku = 1;
 
 
 console.log(saiyan1+"Vegeta. Whats's the scouter say about his power level!");
@@ -28,4 +28,13 @@ while(sonGoku<9001){
 }
 
 //My Do While Loop
+
+var kai = sonGoku *3;
+
+do{
+    //
+}while(kai > 27000){
+    console.log("Goku's massive power only tripled once he activated his Kaioken mode on his enemy " +saiyan2);
+    console.log(kai);
+}
 
