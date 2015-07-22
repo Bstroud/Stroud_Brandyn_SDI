@@ -9,7 +9,7 @@
 
 //Create an array of Scooby Doo characters
 
-var scoobyGang = ["Scooby", "Shaggy", "Velma", "Daphne"];
+var scoobyGang = ["Velma", "Scooby", "Shaggy", "Daphne"];
 
 
 //Push an array
@@ -20,6 +20,16 @@ scoobyGang.push("Scrappy");
 console.log(scoobyGang.length);
 
 for(var i = 0; i<scoobyGang.length; i++){
+ //Call out Scooby and Shaggy to get scooby snack
+ if(scoobyGang[i]==="Scooby" || scoobyGang[i]==="Shaggy"){
+  console.log("Good job " +scoobyGang[i]+ ". You get a scooby snack");
+
+
+ }else{
+
+  console.log("You solved the case " +scoobyGang[i]);
+ }
+
  console.log("You solved the case " +scoobyGang[i]);
 
 
