@@ -7,7 +7,7 @@
 //alert("More loops");
 
 //Basic for loop
-//for(initilize counter: condition; increment of change){}
+//for(initialize counter: condition; increment of change){}
 
 for(var i = 10; i>0; i--){
     console.log("The value of i is " +i);
