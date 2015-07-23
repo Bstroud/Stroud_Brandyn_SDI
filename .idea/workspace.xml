@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="464d2b27-26c5-43d7-86d4-65545f58ad4e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8 argParam/argparm ja/aurguments_parameter.js" afterPath="$PROJECT_DIR$/Day 8 argParam/argparm ja/aurguments_parameter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/Day 6 validation/js/validate.js" afterPath="$PROJECT_DIR$/Day 6/Day 6 validation/js/validate.js" />
     </list>
     <ignored path="Stroud_Brandyn_SDI.iws" />
@@ -24,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="arrayloop.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stroud_Brandyn_Arrayloop/js/arrayloop.js">
+      <file leaf-file-name="returns.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day 8 returns/day 8 returns/returns.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.14305177">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -36,31 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functionscope.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day8functionscope/functionscope js/functionscope.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aurguments_parameter.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 8 argParam/argparm ja/aurguments_parameter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9591281">
-              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="argParameters.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8 argParam/argParameters.html">
+      <file leaf-file-name="returns.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day 8 returns/returns.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -71,56 +50,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125">
               <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="validate.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 6/Day 6 validation/js/validate.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day_8_functions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8/js functions/day_8_functions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="59" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 8 functions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8/Day 8 functions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loops_arrays.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 7 Loops and Arrays/js/loops_arrays.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zombies.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 7 Zombies/js/zombies.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -142,8 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day3Expressions/Day3Expressions.js" />
-        <option value="$PROJECT_DIR$/Day2/Day2Homework.html" />
         <option value="$PROJECT_DIR$/Day2/Day3Expressions/Day3Expressions.js" />
         <option value="$PROJECT_DIR$/Day 3/Day 3 arrays.html" />
         <option value="$PROJECT_DIR$/Day 3/js/day3_arrays.js" />
@@ -193,6 +120,8 @@
         <option value="$PROJECT_DIR$/Day8functionscope/functionscope js/functionscope.js" />
         <option value="$PROJECT_DIR$/Day 8 argParam/argParameters.html" />
         <option value="$PROJECT_DIR$/Day 8 argParam/argparm ja/aurguments_parameter.js" />
+        <option value="$PROJECT_DIR$/day 8 returns/returns.html" />
+        <option value="$PROJECT_DIR$/day 8 returns/day 8 returns/returns.js" />
       </list>
     </option>
   </component>
@@ -311,6 +240,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="functionscope js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 8 returns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 8 returns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 8 returns" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -617,20 +578,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day2/Day3Expressions/Day2Homework.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2/Day3Expressions/Day3Expressions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day2/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -997,9 +944,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 8 argParam/argparm ja/aurguments_parameter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9591281">
+        <state vertical-scroll-proportion="0.0">
           <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 8 returns/returns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 8 returns/day 8 returns/returns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14305177">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
