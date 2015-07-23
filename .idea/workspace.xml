@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="464d2b27-26c5-43d7-86d4-65545f58ad4e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stroud_Brandyn_Arrayloop/js/arrayloop.js" afterPath="$PROJECT_DIR$/Stroud_Brandyn_Arrayloop/js/arrayloop.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/Day 6 validation/js/validate.js" afterPath="$PROJECT_DIR$/Day 6/Day 6 validation/js/validate.js" />
     </list>
     <ignored path="Stroud_Brandyn_SDI.iws" />
@@ -36,11 +35,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functionscope.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functionscope.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day8functionscope/functionscope js/functionscope.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22343324">
+            <state vertical-scroll-proportion="0.0">
               <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aurguments_parameter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 8 argParam/argparm ja/aurguments_parameter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14305177">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="argParameters.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 8 argParam/argParameters.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -122,8 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day2/D2HW/d2hw.js" />
-        <option value="$PROJECT_DIR$/Day3Expressions/d2hw.js" />
         <option value="$PROJECT_DIR$/Day3Expressions/Day3Expressions.js" />
         <option value="$PROJECT_DIR$/Day2/Day2Homework.html" />
         <option value="$PROJECT_DIR$/Day2/Day3Expressions/Day3Expressions.js" />
@@ -173,6 +190,8 @@
         <option value="$PROJECT_DIR$/Day8functionscope/Day_8_Functions_Scope.html" />
         <option value="$PROJECT_DIR$/Stroud_Brandyn_Arrayloop/js/arrayloop.js" />
         <option value="$PROJECT_DIR$/Day8functionscope/functionscope js/functionscope.js" />
+        <option value="$PROJECT_DIR$/Day 8 argParam/argParameters.html" />
+        <option value="$PROJECT_DIR$/Day 8 argParam/argparm ja/aurguments_parameter.js" />
       </list>
     </option>
   </component>
@@ -291,6 +310,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="functionscope js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 8 argParam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stroud_Brandyn_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 8 argParam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="argparm ja" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -565,20 +616,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day2/Day3Expressions/Day3Expressions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="163" column="62" selection-start-line="163" selection-start-column="62" selection-end-line="163" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day2/Day3Expressions/Day2Homework.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -943,8 +980,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day8functionscope/functionscope js/functionscope.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22343324">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8 argParam/argParameters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8 argParam/argparm ja/aurguments_parameter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14305177">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>
       </provider>
