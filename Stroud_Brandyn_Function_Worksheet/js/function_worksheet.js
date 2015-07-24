@@ -5,10 +5,19 @@
  Function Worksheet
  */
 
+
+//Function for finding the circumference
+    function circle(pi, radius) {
+
 //Variables for formula of circumference
-var pi = 3.14;
-var radius = prompt("Choose a number to multiply by pi");
-var circumference = pi*Math.pow(radius, 2);
+ circumference = pi*radius;
+ 
+ //Console.log results
+ console.log("The area of this circle is " + circumference);
 
-console.log(circumference);
+ return circumference
 
+}
+var results = circle(3.14, Number(prompt("Enter a number.")));
+//Print results
+console.log("The circumference of a circle is " +results);
