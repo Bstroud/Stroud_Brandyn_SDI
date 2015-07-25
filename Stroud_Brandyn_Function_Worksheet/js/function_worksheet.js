@@ -32,14 +32,17 @@ console.log("The circumference of a circle is " +results);
 var victim = 145;
 //Variables for bee sting formula
 var stingsForDeath = 8.666666667*victim;
-
 //Function for the amount of stings til death
-function death(victimWeight){
+function death(bees){
 
+ //Rounding the number to a whole number
+ var stings = Math.round(stingsForDeath);
  //console.log results
- console.log(Math.round(stingsForDeath));
+ console.log(stings);
 
  return stingsForDeath
 
 }
-death();
+//Call function
+var result2 = death();
+console.log("It takes " +result2+ " bee stings to kill this animal.");
