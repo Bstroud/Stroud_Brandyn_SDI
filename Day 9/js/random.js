@@ -51,16 +51,25 @@ var results = randomNumber(min, max);
 console.log("Your random number is " +results);
 
 //15 Random number to print out
+var total = 0;
+//Create a blank array to hold the values
+var randomArray = [];
+
 for(var i=0; i < 15; i++){
- var tempNum = randomNumber(min, max);
 
- console.log(tempNum)
+ var tempNum = randomNumber(10, 20);
+randomArray[i] = tempNum;
+ console.log(tempNum);
+
+ total += tempNum;
 }
-
+//COnsole.log total
+console.log(randomArray);
+console.log("The total of 15 random numbers is " +total);
 
 function randomNumber(mn, mx){
  //Generate our random number
- var randomNum = Math.round(Math.random()*(mx-mn) -mn);
+ var randomNum = Math.round(Math.random()*(mx-mn) +mn);
  //console.log(randomNum)
  //Return the random number
  return randomNum
