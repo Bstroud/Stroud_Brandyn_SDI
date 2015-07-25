@@ -41,3 +41,27 @@ while(isNaN(max || max==="") || max<=min){
 }
 //Number cast or parseInt
 max=Number(max);
+
+//test
+console.log("The min value is " +min+". The max value is " +max+ ".");
+
+//Create the random function
+
+var results = randomNumber(min, max);
+console.log("Your random number is " +results);
+
+//15 Random number to print out
+for(var i=0; i < 15; i++){
+ var tempNum = randomNumber(min, max);
+
+ console.log(tempNum)
+}
+
+
+function randomNumber(mn, mx){
+ //Generate our random number
+ var randomNum = Math.round(Math.random()*(mx-mn) -mn);
+ //console.log(randomNum)
+ //Return the random number
+ return randomNum
+}
