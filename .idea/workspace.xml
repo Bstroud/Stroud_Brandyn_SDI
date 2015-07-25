@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="464d2b27-26c5-43d7-86d4-65545f58ad4e" name="Default" comment="" />
+    <list default="true" id="464d2b27-26c5-43d7-86d4-65545f58ad4e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9/js/random.js" afterPath="$PROJECT_DIR$/Day 9/js/random.js" />
+    </list>
     <ignored path="Stroud_Brandyn_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +26,9 @@
       <file leaf-file-name="random.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 9/js/random.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1839237">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.49046323">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -922,11 +922,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 9/js/random.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1839237">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.49046323">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
