@@ -23,3 +23,21 @@ while(isNaN(min || min==="")){
 }
 //Number cast or parseInt
 min=Number(min);
+
+//Create a variable for max
+var max = prompt("What is the max value?");
+
+//validate
+while(isNaN(max || max==="") || max<=min){
+ if(isNaN(max)){
+  max=prompt("Please only type in numbers. What is the minimum value");
+
+ }else if(max<=min && min===""){
+  max= prompt("Please make sure your max value is greater than your min value of " +min+ ".\nWhat is the max value.")
+ }else {
+  max=prompt("Please don not leave blank.\nPlease enter a minimum value.");
+ }
+
+}
+//Number cast or parseInt
+max=Number(max);
