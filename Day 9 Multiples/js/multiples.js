@@ -34,16 +34,28 @@ function calcArea(h, w){
  return area
 }
 
-//Create a function to calc area of a triangle
-var triArea = function(b, h){
- var area = .5*b*h;
+//Asl the user if they would like to calc the area of a triangel
+var userPrompt = prompt("would you like to calc the area of a triangle\nPlease enter yes or no");
 
- return area
+//validate
+while(userPrompt.toLowerCase() !="yes" && userPrompt.toLowerCase() !="no"){
+ userPrompt=prompt("Please only enter yes or no.\nwould you like to calc the are of a triangle")
 }
 
-//Function triangle call
-var triAreaTotal = triArea(base, height);
-console.log(triAreaTotal);
+//Conditional to see if we should run the anon func
+if(userPrompt.toLowerCase()==="yes"){
+ var triArea = function(b, h){
+  var area = .5*b*h;
+
+  return area
+ }
+
+
+}
+
+//Create a function to calc area of a triangle
+
+
 
 //Create a procedure that will console log the rect peri and area
 function printOut(p,a){
@@ -53,3 +65,10 @@ function printOut(p,a){
 
 //function call
 printOut(resultsPeri, resultsArea);
+
+if(userPrompt.toLowerCase()==="yes"){
+ //Function triangle call
+ var triAreaTotal = triArea(base, height);
+ console.log(triAreaTotal);
+
+}
