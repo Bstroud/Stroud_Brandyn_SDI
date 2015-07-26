@@ -8,20 +8,24 @@
 
 //alert("It works");
 
-//Counting to 100
+//Pokemon
 
-//Global variables
-var startNum = 0;
-var endNum = 100;
+//results
+var results = pokemon();
 
 //Function
-function aHundred(start, end){
+function pokemon(s1, s2, s3){
+s1 = 151;
+ s2 = 251;
+ s3 = 386;
 
- 
- console.log()
+var total = s1+s2+s3;
 
+ console.log(total);
+
+ return total
 
 }
 //Call function
-var centi = aHundred();
-console.log(centi);
+pokemon();
+console.log("After 3 generations of Pokemon the total numbers of Pokemon were " +results);
