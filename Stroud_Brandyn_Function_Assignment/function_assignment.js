@@ -18,7 +18,7 @@ while(isNaN(guess) || guess==="") {
  //Re-prompt the user
  guess = prompt("Please only use numbers and don't leave blank.\nPlease enter a number.");
 }
-if(guess===788){
+if(guess===386){
  console.log("You're right you must be a real fan");
 }else{
  console.log("Sorry that was incorrect.");
@@ -55,3 +55,18 @@ console.log("After 3 generations of Pokemon the total numbers of Pokemon were " 
 
 //Pokemon
 
+//Prompt the user
+var guess2 = prompt("Now in the 6th generation of Pokemon take a guess how many there are now\nEnter a number");
+
+
+//Create a function to calculate how many Pokemon there are now
+var pkm = function morePkmn(then, now){
+ for(var i=386; i<721; i++){
+
+if(i===721){
+ break
+}
+ }
+ console.log("The total number of Pokemon in generation 6 is " +i);
+ }
+pkm();
