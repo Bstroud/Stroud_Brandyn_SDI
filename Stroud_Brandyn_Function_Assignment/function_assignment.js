@@ -21,7 +21,7 @@ while(isNaN(guess) || guess==="") {
 if(guess===788){
  console.log("You're right you must be a real fan");
 }else{
- console.log("Sorry guess again");
+ console.log("Sorry that was incorrect.");
 }
 
 //results
@@ -29,8 +29,8 @@ var results = pokemon();
 
 //Main Code var
 var poke1 = 151;
-var poke2 = 251;
-var poke3 = 386;
+var poke2 = 100;
+var poke3 = 135;
 
 var gen3 = results;
 console.log(gen3);
@@ -38,8 +38,8 @@ console.log(gen3);
 //Function
 function pokemon(s1, s2, s3){
 s1 = 151;
- s2 = 251;
- s3 = 386;
+ s2 = 100;
+ s3 = 135;
 
 var total = s1+s2+s3;
 
@@ -50,3 +50,8 @@ return total
 pokemon(poke1, poke2, poke3);
 
 console.log("After 3 generations of Pokemon the total numbers of Pokemon were " +results);
+
+
+
+//Pokemon
+
