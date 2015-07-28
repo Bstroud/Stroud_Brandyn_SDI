@@ -21,9 +21,10 @@ while(isNaN(pizzaRadius) || pizzaRadius===""){
  //re-prompt
  pizzaRadius = prompt("Please do not enter words or leave blank.\nPlease enter your pizza's radius?");
 
-
-
 }
+
+//Cast to numbers
+pizzaRadius = Number(pizzaRadius);
 
 var pizzaCost = prompt("How much does your pizza cost");
 
@@ -32,6 +33,8 @@ while(isNaN(pizzaCost) || pizzaCost==="") {
  //re-prompt
  pizzaCost = prompt("Please do not enter words or leave blank.\nPlease enter your pizza's cost?");
 }
+
+pizzaCost = Number(pizzaCost);
 
  var pizzaSlices = prompt("How many slices do you have");
 
@@ -42,6 +45,29 @@ while(isNaN(pizzaCost) || pizzaCost==="") {
 
  }
 
+pizzaSlices = Number(pizzaSlices);
+
+
+//Create a function that launche all of the functions
+
+function masterPizzaFunc(rad,cost,slices){
+ //Function call for area function
+ var area = pizzaArea(rad);
+
+//function call Square in function
+ var sqInCost = pizzaSqInCost(cost,area);
+
+//function call to slices function
+ var slicePrice = pricePerSlice(slices,cost);
+
+return [sqInCost,slicePrice]
+
+}
+//FUnction call to the masterPizzaFunct
+var results = masterPizzaFunc(pizzaRadius,pizzaCost,pizzaSlices);
+
+//Print out results
+console.log("Your pizza cost $"+results[0]+" per sq inch of pizza or $"+results[1]+" per slice.");
 
 //Create a function to calc the area of a pizza
 function pizzaArea(r){
