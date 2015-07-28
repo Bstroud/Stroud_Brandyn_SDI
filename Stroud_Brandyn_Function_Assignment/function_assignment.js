@@ -53,18 +53,32 @@ console.log("After 3 generations of Pokemon the total numbers of Pokemon were " 
 
 
 
-//Pokemon
+//Pokemon 2
 
 //Prompt the user
 var guess2 = prompt("Now in the 6th generation of Pokemon take a guess how many there are now\nEnter a number");
+if(guess2===721){
+ console.log("You're right there 721 Pokemon")
+}
+//Validation
+if(guess2 != isNaN(721)){
+
+ while(isNaN(guess2) && guess2==""){
+  prompt("Please only use numbers and don't leave blank\nEnter a number.")
+ }
+ console.log("Sorry that is incorrect");
+}
 
 
 //Create a function to calculate how many Pokemon there are now
 var pkm = function morePkmn(then, now){
- for(var i=386; i<721; i++){
+
+ for(var i=386; i<722; i++){
+//console.log(i);
 
 if(i===721){
  break
+
 }
  }
  console.log("The total number of Pokemon in generation 6 is " +i);
