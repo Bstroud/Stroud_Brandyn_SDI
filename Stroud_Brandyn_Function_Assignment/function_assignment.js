@@ -57,16 +57,26 @@ console.log("After 3 generations of Pokemon the total numbers of Pokemon were " 
 
 //Prompt the user
 var guess2 = prompt("Now in the 6th generation of Pokemon take a guess how many there are now\nEnter a number");
-if(guess2===721){
- console.log("You're right there 721 Pokemon")
-}
-//Validation
-if(guess2 != isNaN(721)){
 
- while(isNaN(guess2) && guess2==""){
-  prompt("Please only use numbers and don't leave blank\nEnter a number.")
+//Number cast to be sure
+guess2 = Number(guess2);
+
+//Validation
+if(guess2===721 || guess2 =="721"){
+
+ console.log("You're right there 721 Pokemon");
+
+}else {
+
+ if(guess2 != isNaN(721))
+
+
+ while(isNaN(guess2) && guess2=="") {
+
+ prompt("Please only use numbers and don't leave blank\nEnter a number.");
+
  }
- console.log("Sorry that is incorrect");
+console.log("Sorry that's wrong.")
 }
 
 
@@ -81,6 +91,6 @@ if(i===721){
 
 }
  }
- console.log("The total number of Pokemon in generation 6 is " +i);
+ console.log("The total number of Pokemon in generation 6 is " +i+ ". As you can see, that is a lot of new Pokemon.");
  }
 pkm();
